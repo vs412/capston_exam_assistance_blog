@@ -1,5 +1,12 @@
 exam assistance blog like app (24)
 
+services contain:
+1) Question practice support
+2) Full Assistance support website (contain Rank, history, doubt forum, blogging)
+3) Validating blogging with Admin
+4) Doubt forum for one to one interation between users
+5) Feedback support
+
 requirements: 
 1) mysql >= 5.6 version
 2) php >= 7.0 version
