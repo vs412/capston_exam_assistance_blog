@@ -8,9 +8,14 @@ services contain:
 5) Feedback support
 
 requirements: 
+for linux -
 1) mysql >= 5.6 version
 2) php >= 7.0 version
-3) wamp
+3) apache 2.0
+place the folders inside 'html' directory
+for windows-
+install wamp or xamp and place the folder inside 'www' directory
+
 
 steps :
 
